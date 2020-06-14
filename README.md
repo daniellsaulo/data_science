@@ -19,6 +19,14 @@ Tenho atuado ao longo dos últimos anos na área de suporte em tecnologia da inf
 
 * Tecnólogo em Análise de Desenvolvimento de Sistemas.
 
+---
+
+### Links
+
+* <a href="https://linkedin.com/in/daniellsaulo/">
+    <img src="/img/linkedin.png" width="10%" ></a>
+* <a href="https://medium.com/@daniellsaulo">
+    <img src="/img/medium.png" width="10%" ></a>
 
 
 
