@@ -1,0 +1,2 @@
+*.py linguist-detectable=Solidity
+*.jupyter linguist-detectable=false
