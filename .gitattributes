@@ -1,2 +1,2 @@
 *.py linguist-detectable=Solidity
-.ipynb linguist-detectable=false
+*.ipynb linguist-detectable=false
