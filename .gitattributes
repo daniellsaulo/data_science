@@ -1,2 +1,2 @@
 *.py linguist-detectable=Solidity
-*.jupyter linguist-detectable=false
+.ipynb linguist-documentation
